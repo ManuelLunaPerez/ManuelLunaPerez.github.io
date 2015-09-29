@@ -1,3 +1,7 @@
+---
+layout: about
+---
+
 Sobre mi
 ---------------
 

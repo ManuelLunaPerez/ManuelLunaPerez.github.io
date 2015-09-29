@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 Probando Markdown
 ---------------
 # Manuel Luna Pérez
