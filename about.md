@@ -13,10 +13,9 @@ Sobre mi
 
 **Blog:** [Visitar]
 
-  [Visitar]: http://manuellunaperez.wordpress.com
-
 ![Alt text](images/markdown.png)
 
-[Volver atras]
+[Volver]
 
-	[Volver atras]: http://manuellunaperez.github.io
+  [Visitar]: http://manuellunaperez.wordpress.com
+  [Volver]: http://manuellunaperez.github.io

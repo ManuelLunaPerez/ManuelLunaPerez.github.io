@@ -4,9 +4,10 @@ layout: index
 
 Probando Markdown
 ---------------
-#Manuel Luna Pérez
 
-##Esta página es una prueba
+#Manuel Luna Perez
+
+###Esta página es una prueba
 
 Esta práctica tiene como objetivo:
 
@@ -18,4 +19,4 @@ Esta práctica tiene como objetivo:
 
 Ir a [about]
 
-	[about]: http://manuellunaperez.github.io/about
+  [about]: http://manuellunaperez.github.io/about
