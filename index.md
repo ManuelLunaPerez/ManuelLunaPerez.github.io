@@ -16,3 +16,6 @@ Esta práctica tiene como objetivo:
   - una imagen.
 
 
+Ir a [about]
+
+	[about]: http://manuellunaperez.github.io/about
