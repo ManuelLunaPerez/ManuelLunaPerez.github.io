@@ -4,8 +4,9 @@ layout: index
 
 Probando Markdown
 ---------------
-# Manuel Luna Pérez
-## Esta página es una prueba
+#Manuel Luna Pérez
+
+##Esta página es una prueba
 
 Esta práctica tiene como objetivo:
 
