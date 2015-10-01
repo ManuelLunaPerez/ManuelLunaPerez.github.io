@@ -1,5 +1,8 @@
 ---
 layout: index
+
+title: Manuel Luna Perez
+tagline: manuellunaperez.github.io
 ---
 
 Probando Markdown
