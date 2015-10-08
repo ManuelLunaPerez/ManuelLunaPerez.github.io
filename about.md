@@ -1,9 +1,9 @@
 ---
 layout: index.html
----
 
 title: Manuel Luna Perez
 tagline: manuellunaperez.github.io
+---
 
 ---------------
 ##Sobre Mi
