@@ -1,5 +1,5 @@
 ---
-layout: index.html
+layout: index
 
 title: Manuel Luna Perez
 tagline: manuellunaperez.github.io
