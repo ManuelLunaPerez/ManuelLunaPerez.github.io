@@ -1,5 +1,5 @@
 ---
-layout: ../_layouts/index
+layout: index
 
 title: Manuel Luna Perez
 tagline: Instalación chamilo en entorno pruebas/desarrollo
