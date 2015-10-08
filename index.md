@@ -11,8 +11,11 @@ Esta práctica tiene como objetivo:
   - la principal (index.md)
   - una página que hablé de ti (about.md)
   - una imagen.
+  - [Tutoriales]
 
 
 Ir a [about]
 
-  [about]: http://manuellunaperez.github.io/about
+  [about]: /about
+  [Tutoriales]: /tutoriales/chamilo
+

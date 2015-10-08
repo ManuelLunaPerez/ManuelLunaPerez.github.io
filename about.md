@@ -21,4 +21,4 @@ tagline: manuellunaperez.github.io
 [Volver]
 
   [Visitar]: http://manuellunaperez.wordpress.com
-  [Volver]: http://manuellunaperez.github.io
+  [Volver]: ../index
