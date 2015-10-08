@@ -79,5 +79,5 @@ Chamilo funciona correctamente en el entorno de desarrollo.
 
 [Volver]
 
-  [Volver]: ../index
+  [Volver]: ../../index
 
