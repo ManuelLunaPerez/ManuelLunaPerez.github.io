@@ -23,11 +23,13 @@ root@servidor:/var/www/html# chown -R www-data:www-data chamilo/
 ```
 
 Durante la instalación nos saldrán diferentes recomendaciones(Timezone, máximo tamaño de subida de ficheros y de posts ...) por lo que debemos modificar el fichero de configuración php:
+
 ```
 root@servidor:/var/www/html# nano /etc/php5/apache2/php.ini
 ``` 
 
 Debemos descomentar la linea 
+
 ```
 ;date.timezone = "Europe/Madrid"
 ```
@@ -67,11 +69,15 @@ root@servidor:/var/www/html/chamilo# rm -r main/install/
 
 Durante la instalación observé que los permisos con los que se realizaban la instalación eran 0777 y 0666:
 
-!Selección_003.png!
-
+![Alt text](images/Selección_003.png)
 
 Por lo que una vez instalado he tenido que cambiar los permisos a 755 y 664 dentro del panel de administación:
 
-!Selección_008.png!
+![Alt text](images/Selección_008.png)
 
 Chamilo funciona correctamente en el entorno de desarrollo.
+
+[Volver]
+
+  [Volver]: ../index
+
