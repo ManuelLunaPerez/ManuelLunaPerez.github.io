@@ -2,8 +2,11 @@
 layout: index.html
 ---
 
-Sobre mi
+title: Manuel Luna Perez
+tagline: manuellunaperez.github.io
+
 ---------------
+##Sobre Mi
 
 **Nombre:** Manuel
 
