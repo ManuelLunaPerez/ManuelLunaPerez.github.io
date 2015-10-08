@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: index.html
 ---
 
 Sobre mi
