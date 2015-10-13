@@ -1,8 +1,8 @@
 ---
 layout: index
 
-title: Manuel Luna Perez
-tagline: Instalación chamilo en entorno pruebas/desarrollo
+title: Instalación chamilo en entorno pruebas/desarrollo
+tagline: Manuel Luna Perez
 ---
 
 ---------------
